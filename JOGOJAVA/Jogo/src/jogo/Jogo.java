@@ -17,8 +17,8 @@ public class Jogo {
     public static void main(String[] args) throws Exception {
         setClasse();
         SuperPersonagem.setArma(Jogo.classe);
-        System.out.println(Jogo.classe);
-        System.out.println(SuperPersonagem.armaAtual);
+        //System.out.println(Jogo.classe);
+        //System.out.println(SuperPersonagem.armaAtual);
         Menu(classe);
     }
 
