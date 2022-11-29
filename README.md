@@ -1,2 +1,2 @@
 # JogoJava
-Simple text based game made for a college OOD Java project
+Simple start of a text based game made for a college OOD Java project
